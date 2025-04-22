@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Word Antakshari Game Portal
 
 ## Description
